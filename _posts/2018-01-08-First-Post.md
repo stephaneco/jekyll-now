@@ -9,5 +9,4 @@ Come one, come all to the greatest show on earth. Learn how you can onboard your
 
 [Held at the Globe Theatre](https://www.google.com)
 
-Inline-style: 
 ![alt text](https://www.ivystreetschool.org/images/news/extravaganza_logo.jpg "Logo Title Text 1")
